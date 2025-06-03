@@ -3,5 +3,5 @@
 </div>
 
 <div align="center">
-  <p>I’m interested in web development and also studying computer science. 👀</p>
+  <p>I’m studying computer science. 👀</p>
 </div>
