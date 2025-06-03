@@ -3,5 +3,5 @@
 </div>
 
 <div align="center">
-  <p>I’m studying computer science. 👀</p>
+  <p>I’m studying a bachelor's degree in information technology. Striving to learn more and improve through courses.</p>
 </div>
